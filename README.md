@@ -1,6 +1,6 @@
 ![DV8IH1578602886](https://user-images.githubusercontent.com/41824020/72103010-4e290c00-334e-11ea-9e15-d492433fdaf7.jpg)
 
-# My-Tab (Little but Helpful Utility :))
+# My-Tab (Utility)
 *Sometimes I have more than 20 tabs opened in my PC and for some reason now I need to Restart it. But then who will open those tabs? Enough sucks, Time to automate.*
 
 
