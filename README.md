@@ -15,7 +15,7 @@
 > > Enter your file name with extention and it will generate decrypted json file and analyzied file.
 
 #### MyTab Usage
-> python3 MyTab.py save
+> python3 MyTab.py save</br>
 > python3 MyTab.py open
 
 </br>
