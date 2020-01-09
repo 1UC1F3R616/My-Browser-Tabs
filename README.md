@@ -10,6 +10,9 @@
 </br>
 
 
+#### [Analyizer for file type jsonlz4](https://github.com/D-E-F-E-A-T/My-Browser-Tabs/blob/master/analyzer.py)
+
+
 - [x] Firefox Ubuntu
 - [ ] Chrome Ubuntu
 - [ ] Firefox Windows
