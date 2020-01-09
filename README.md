@@ -11,7 +11,11 @@
 
 
 #### [Analyizer for file type jsonlz4](https://github.com/D-E-F-E-A-T/My-Browser-Tabs/blob/master/analyzer.py)
+> Usage:
+> > Enter your file name with extention and it will generate decrypted json file and analyzied file.
 
+
+</br>
 
 - [x] Firefox Ubuntu
 - [ ] Chrome Ubuntu
