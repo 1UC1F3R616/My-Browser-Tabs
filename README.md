@@ -30,4 +30,4 @@
 - [ ] Chrome MAC
 
 
-### (Found this! Enjoy)[https://www.howtogeek.com/120185/always-open-tabs-from-your-last-browsing-session-in-firefox-chrome-opera-safari-and-ie/]
+### [Found this! Enjoy](https://www.howtogeek.com/120185/always-open-tabs-from-your-last-browsing-session-in-firefox-chrome-opera-safari-and-ie/)
